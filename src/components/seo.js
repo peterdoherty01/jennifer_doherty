@@ -10,6 +10,8 @@ function SEO({ description, lang, meta, keywords, title }) {
       render={data => {
         const metaDescription =
           description || data.site.siteMetadata.description
+        const metaAuthor =
+          author || data.site.siteMetadata.author
         return (
           <Helmet
             htmlAttributes={{
