@@ -30,7 +30,6 @@ function Bio() {
             <p>
               <strong>{author}</strong>, is a Journalist focusing on social justice and global poverty. She is attending Columbia Journalism School
               {` `}
-              <br> 
               Email me: <a mailto={`${social.email}`}> email</a>
               Follow me: <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter
