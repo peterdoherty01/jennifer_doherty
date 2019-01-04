@@ -34,13 +34,13 @@ function Bio() {
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter. 
-              </a>View her pictures and videos
+              </a> View her pictures and videos
               <a href={`https://twitter.com/${social.instagram}`}>
                  here. 
-              </a>Send her an 
+              </a> Send her an 
               <a href={`mailto:${social.email}`}>
                 email. 
-              </a>
+              </a> to get in touch.
             </p>
           </div>
         )
