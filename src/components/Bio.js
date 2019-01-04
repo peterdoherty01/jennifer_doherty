@@ -23,20 +23,16 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 150,
+                minWidth: 50,
                 borderRadius: `100%`,
               }}
             />
             <p>
               <strong>{author}</strong>, is a Journalist focusing on social justice and global poverty. She is attending Columbia Journalism School
               {` `}
-              Email me: <a mailto={`${social.email}`}> email</a>
-              Follow me: <a href={`https://twitter.com/${social.twitter}`}>
-                Twitter
-              </a> or 
-              <a href={`https://instagram.com/${social.instagram}`}>
-                Instagram
-              </a>
+              <a href={`mailto:${social.email}`}> Email me.</a>
+              <a href={`https://twitter.com/${social.twitter}`}>Follow me.</a> 
+              <a href={`https://instagram.com/${social.instagram}`}>Check my pictures/videos.</a>
             </p>
             <p></p>
           </div>
