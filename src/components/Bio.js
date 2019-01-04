@@ -28,11 +28,11 @@ function Bio() {
               }}
             />
             <p>
-              <strong>{author}</strong>, is a Journalist focusing on social justice and global poverty. She is attending Columbia Journalism School
+              <strong>{author}</strong>, is a Journalist focusing on social justice and global poverty. I'm attending Columbia Journalism School
               {` `}
-              <a href={`mailto:${social.email}`}> Email me.</a>
-              <a href={`https://twitter.com/${social.twitter}`}>Follow me.</a> 
-              <a href={`https://instagram.com/${social.instagram}`}>Check my pictures/videos.</a>
+              <a href={`mailto:${social.email}`}>. Contact me.</a>
+              <a href={`https://twitter.com/${social.twitter}`}> Follow me.</a> 
+              <a href={`https://instagram.com/${social.instagram}`}> Check my pictures/videos.</a>
             </p>
             <p></p>
           </div>
