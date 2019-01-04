@@ -7,6 +7,7 @@ module.exports = {
     social: {
       twitter: `jennie_k_doh`,
       instagram: `jenniekdoh`,
+      email: `jennifer.doherty@columbia.edu`,
     },
   },
   plugins: [
