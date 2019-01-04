@@ -30,9 +30,10 @@ function Bio() {
             <p>
               <strong>{author}</strong>, is a Journalist focusing on social justice and global poverty. She is attending Columbia Journalism School
               {` `}
+              <br></br>
               Follow me: <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter
-              </a> or
+              </a> or 
               <a href={`https://instagram.com/${social.instagram}`}>
                 Instagram
               </a>
