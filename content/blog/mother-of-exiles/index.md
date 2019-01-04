@@ -15,6 +15,8 @@ The simulation is part of a new training program set to launch at six hospitals 
 
 ![Photo credit: https://www.nychealthandhospitals.org/harlem/pressrelease/new-simulation-training-improves-safety-of-childbirth/?news](./1_bkOoerj7XDHYTf_cZhGoEQ.jpeg)
 
+_Photo credit: https://www.nychealthandhospitals.org/harlem/pressrelease/new-simulation-training-improves-safety-of-childbirth/?news_
+
 When asked for specifics about how implicit bias is addressed in the training, Bob De Luna, press secretary for NYC Health + Hospitals/Harlem, where the training exercise was developed, replied: “Because our mission is to provide care to all regardless of ability to pay or immigration status, addressing bias associated with cultural difference has long been and will continue to be a focus for us.” De Luna did not respond to follow-up questions.
 
 The report Maternal Morbidity, New York City 2006–2010, released in 2016, startled city agencies into action. Maternal morbidity rates, unlike the more frequently reported maternal mortality rate, refer to the number of women who experience life threatening, but not fatal, health crises related to their pregnancies. The mortality rate counts deaths only. The report listed hemorrhage as the leading cause of maternal mortality for all races except white women.
