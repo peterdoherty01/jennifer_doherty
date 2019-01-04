@@ -28,7 +28,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> Social justice and global poverty reporter | Student at Columbia Journalism School
+              <strong>{author}</strong>, social justice and global poverty reporter. Student at Columbia Journalism School
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
