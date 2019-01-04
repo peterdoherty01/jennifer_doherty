@@ -61,7 +61,7 @@ function SEO({ description, author, lang, meta, keywords, title }) {
                 keywords.length > 0
                   ? {
                       name: `keywords`,
-                      content: data.site.siteMetadata.keywords // keywords.join(`, `),
+                      content: keywords, // keywords.join(`, `),
                     }
                   : []
               )
