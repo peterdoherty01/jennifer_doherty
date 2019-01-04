@@ -23,6 +23,10 @@ function SEO({ description, lang, meta, keywords, title }) {
                 content: metaDescription,
               },
               {
+                name: `author`,
+                content: metaAuthor,
+              },
+              {
                 property: `og:title`,
                 content: title,
               },
