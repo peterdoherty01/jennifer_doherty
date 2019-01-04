@@ -1,0 +1,20 @@
+---
+title: Opinion: The Case for Running Away to Europe
+date: '2016-12-29T09:00:00.284Z'
+---
+
+_Especially now_
+
+If you’re about to graduate and don’t know where to go from there or have recently graduated and aren’t thrilled by your prospects or if you are simply worried about your safety and unprepared to wage political and social battle for the next four years, then I am here as a proud American to tell you: go east, young (wo)man!
+
+I am not talking about doing the Grand Tour your great aunt Joanie did before marrying some rich guy and blowing off the rest of your family. That barely exists anymore (thanks a lot, eurozone). No, today’s global economy means that if you aren’t one of the happy few already planning their post-graduation getaways, you’ll probably have to get your hands dirty to live the dream. Do the paperwork, apply for one of the visa-granting English teaching positions offered through government programs [like this one](http://highereducation.frencheducation.org/teach-in-france/prospective-applicants) or [this one](http://www.educacionyfp.gob.es/eeuu/convocatorias-programas/convocatorias-eeuu/auxiliares-conversacion-eeuu.) or [this other one](http://www.tlg.gov.ge/). Get cracking and make that overpriced liberal arts degree work for you.
+
+Once you get here, you won’t be rich, I admit, but that’s not what you came for anyway. If it were, you’d have studied finance. Come learn the value of a strong social safety net. Sure, you’ll be poor, but you can still go to the doctor before that funny looking mole turns green! Hey, and since you’re only teaching English part-time, why not earn a masters degree for a grand total of 1000€, just to keep yourself occupied when you’re not at the doctor or swimming in one of the numerous public pools.
+
+You can learn a foreign language, try not only new foods, but entirely new approaches to food (three-hour lunches and only soup for dinner, anyone?), meet hundreds of new people with as many new ideas. Learn to live more efficiently — in a smaller space, without a car, under a tyrannical recycling regime.
+
+“But Jennifer,” you say, “I grew up in New York City/LA. Multiculturalism and progressive values are already my jam!” Well, grasshopper, then I say you have two European paths toward growth: Come to Europe to see those values in the flesh. Does a 35-hour work week really counterbalance the work more/sleep less global corporate culture? Can you handle 30% of your paycheck slipping away in the night to go toward social benefits? Alternatively, go to provincial Europe, you cosmopolite you, to some farming community an hour away from the last high-speed train stop. Be the mysterious foreigner. Witness ways of life that have literally existed since the Middle Ages, and meet the people who live them, who are watching those ways evolve for better and for worse. Witness the same problems that exist at home being dealt with by others and be stunned by how different and how alike perspectives are. Maybe be shunned by the locals for six months, as an acquaintance of mine was, because all the women are convinced you want to steal their husbands (#asif). Play the implicated observer of other people’s reactions in the face of challenges and then go home and ask yourself if it still seems as harmless when Uncle Lloyd says douchey things about socialism and “ferreigners.”
+
+Or, if you just want a fairytale and a stamp in your passport, you can also get by on English alone, spend your time uniquely with other Americans, eat only chicken and French fries or PB&J on industrial bread because they have that here, too. Complain (mostly with Brits, tbh) either about Trump and Brexit or about how terrible it is here and and how great America is (again?).
+
+And no matter where you go or how long you stay away, remember you can vote — online, by mail, or at your closest US embassy. Leaving doesn’t mean giving up. Come to Europe to take a step back and to bear witness to America, as we are and as we could be, for better and for worse.
