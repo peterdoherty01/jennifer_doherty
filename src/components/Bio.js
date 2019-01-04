@@ -38,6 +38,7 @@ function Bio() {
                 Instagram
               </a>
             </p>
+            <p>Email me: <a mailto="jennifer.doherty@columbia.edu">jennifer.doherty@columbia.edu</a></p>
           </div>
         )
       }}
