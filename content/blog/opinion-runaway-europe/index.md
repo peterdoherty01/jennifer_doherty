@@ -1,5 +1,5 @@
 ---
-title: Opinion: The Case for Running Away to Europe
+title: Opinion - The Case for Running Away to Europe
 date: '2016-12-29T09:00:00.284Z'
 ---
 
