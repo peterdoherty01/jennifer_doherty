@@ -23,14 +23,15 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
+                minWidth: 150,
                 borderRadius: `100%`,
               }}
             />
             <p>
               <strong>{author}</strong>, is a Journalist focusing on social justice and global poverty. She is attending Columbia Journalism School
               {` `}
-              <br></br>
+              <br> 
+              Email me: <a mailto="jennifer.doherty@columbia.edu">jennifer.doherty@columbia.edu</a>
               Follow me: <a href={`https://twitter.com/${social.twitter}`}>
                 Twitter
               </a> or 
@@ -38,7 +39,7 @@ function Bio() {
                 Instagram
               </a>
             </p>
-            <p>Email me: <a mailto="jennifer.doherty@columbia.edu">jennifer.doherty@columbia.edu</a></p>
+            <p></p>
           </div>
         )
       }}
