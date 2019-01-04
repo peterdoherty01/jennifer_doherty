@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://jenniferdoherty.net/`,
     social: {
       twitter: `jennie_k_doh`,
+      instagram: `jenniekdoh`,
     },
   },
   plugins: [
