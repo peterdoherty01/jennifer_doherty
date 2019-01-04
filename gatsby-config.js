@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Jennifer Doherty`,
     author: `Jennifer Doherty`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Journalist - social justice & global poverty reporter`,
     siteUrl: `https://jenniferdoherty.net/`,
     social: {
       twitter: `jennie_k_doh`,
