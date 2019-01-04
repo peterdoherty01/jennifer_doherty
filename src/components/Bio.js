@@ -30,12 +30,9 @@ function Bio() {
             
             <p>
               <strong>{author}</strong> is a Journalist from New Orleans. She lives in New York City and is pursuing a Masters in
-              Journalism from Columbia University. Find her on 
+              Journalism from Columbia University. Find her on
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Twitter. 
-              </a> View her pictures and videos
-              <a href={`https://twitter.com/${social.instagram}`}>
+              <a href={`https://twitter.com/${social.twitter}`}> Twitter. </a> View her pictures and videos <a href={`https://twitter.com/${social.instagram}`}>
                  here. 
               </a> Send her an 
               <a href={`mailto:${social.email}`}>
