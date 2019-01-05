@@ -9,7 +9,7 @@ function Bio() {
     <StaticQuery
       query={bioQuery}
       render={data => {
-        const { author, social } = data.site.siteMetadata
+        const { author, social , contact} = data.site.siteMetadata
         return (
           <div
             style={{
@@ -30,10 +30,9 @@ function Bio() {
             
             <p>
               <strong>{author}</strong> is a Journalist from New Orleans. She lives in New York City and is pursuing a Masters in
-              Journalism from Columbia University. Find her on
+              Journalism from Columbia University. Follow her on
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}> Twitter.</a> View her pictures and videos <a href={`https://twitter.com/${social.instagram}`}> here. 
-              </a> Send her an <a href={`mailto:${social.email}`}> email</a> to get in touch.
+              <a href={`https://twitter.com/${social.twitter}`}> Twitter</a> or say hello: jennifer.doherty@columbia.edu
             </p>
           </div>
         )
