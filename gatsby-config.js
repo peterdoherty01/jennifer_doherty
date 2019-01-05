@@ -76,5 +76,11 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://computationhub.us14.list-manage.com/subscribe/post?u=8f3806237cf2d31cfcc46da09&amp;id=2d90817dbe',
+      },
+    },
   ],
 }

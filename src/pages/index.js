@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
+import Mailchimp from '../components/Mailchimp'
 import { rhythm } from '../utils/typography'
 
 class BlogIndex extends React.Component {
@@ -16,7 +17,7 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="All posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`journalist`, `journalism`, `new-york`, `video`, `storytelling`, `nyc`, `reporter`, `feminism`, `investigation`, `reporting`]}
         />
         <Bio />
         {posts.map(({ node }) => {
@@ -37,6 +38,7 @@ class BlogIndex extends React.Component {
             </div>
           )
         })}
+        <Mailchimp />
       </Layout>
     )
   }

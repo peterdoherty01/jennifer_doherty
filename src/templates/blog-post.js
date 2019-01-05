@@ -5,6 +5,7 @@ import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
+import Mailchimp from '../components/Mailchimp'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -33,6 +34,7 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <Bio />
+        <Mailchimp />
 
         <ul
           style={{

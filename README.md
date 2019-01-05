@@ -1,19 +1,28 @@
-# jenniferdoherty.net
+# [jenniferdoherty.net](jenniferdoherty.net)
 
 ## About
-Website and portfolio for [my wife](www.jenniferdoherty.net).
+Website and portfolio for [my wife](www.jenniferdoherty.net). Built with [gatsby.js](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/).
 
-Built with gatsby.js and hosted with Netlify.
+## Build
 
-References: 
+1. Install [Node.js](https://nodejs.org/)
+2. Install Git
+3. Install gatsby with npm install --global gatsby-cli gatsby --version
+4. Netlify -  create account, connect github repo to the account
+5. Create github repo
+6. Install Yarn https://yarnpkg.com/en/docs/install#windows-stable
+7. Integrate the [Mailchimp plugin](https://www.gatsbyjs.org/packages/gatsby-plugin-mailchimp/) from Gatsby
 
-* https://gatsby-starter-blog-demo.netlify.com/
-* https://github.com/gatsbyjs/gatsby-starter-blog
+## References: 
+
+* Gatsby Starter [Blog Template](https://github.com/gatsbyjs/gatsby-starter-blog)
+* Guidance on Mailchimp implemenation, [Nicholas Drane](https://github.com/nadrane/blog)
+* Gatbsy [MIT Licence](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE)
 
 ## Licence
 The MIT License (MIT)
 
-Copyright (c) 2015 Gatsbyjs
+Copyright (c) 2019 Peter Doherty
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
