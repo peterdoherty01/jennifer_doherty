@@ -4,7 +4,7 @@ module.exports = {
   siteDescription: "Jennifer Doherty is a New York City based Journalist with a focus on reporting on social justice and global poverty.",
   siteUrl: "https://www.jenniferdoherty.net",
   // pathPrefix: "",
-  siteImage: "preview.jpg",
+  siteImage: "https://media.licdn.com/dms/image/C4E03AQF5Yz7MW-Q3Gg/profile-displayphoto-shrink_800_800/0?e=1552521600&v=beta&t=LcuKaWP_yzyBy0wf5C6SxWWL-N_gNJeHPJKnpR-J3kk",
   siteLanguage: "en",
 
   /* author */
