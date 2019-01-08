@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 require("core-js/fn/array/from");
 
 import { FaHome } from "react-icons/fa/";
-import { FaSearch } from "react-icons/fa/";
+// import { FaSearch } from "react-icons/fa/";
 import { FaEnvelope } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
 
