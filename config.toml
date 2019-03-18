@@ -1,0 +1,64 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jennifer Doherty | Journalist"
+theme = "mero"
+
+[params]
+  author = "Jennifer Doherty"
+  description = "My awesome blog"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    title = "home"
+    url = "/"
+    weight = 100
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "posts"
+    url = "/posts/"
+    weight = 200
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    title = "categories"
+    url = "/categories/"
+    weight = 300    
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    title = "tags"
+    url = "/tags/"
+    weight = 400 
+
+[params.introduction]
+   text = "Jennifer Doherty is an NYC based Journalist."
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "www.linkedin.com/in/jenniekdoh"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+  url = "www.twitter.com/jennie_k_doh"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-instagram"
+  url = "www.linkedin.com/in/jenniekdoh"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-envelope"
+  url = "mailto:jennifer.doherty@columbia.edu"  
+
+[params.footer]
+  message = "&copy; 2019 Jennifer Doherty. All rights reserved."
