@@ -1,7 +1,7 @@
 +++
 title = "Mother of Exiles"
 date = "2018-10-18"
-tags = ["random1", "random2"]
+tags = ["Health","Maternal Health","Immigration","Race","New York City"]
 categories = ["Article"]
 description = "A new training from NYC Health + Hospitals/Harlem aims to improve outcomes for pregnant women of color, but does it address concerns for the most at-risk?"
 +++
@@ -16,9 +16,12 @@ The blood is only hypothetical. The patient is an actor participating in a new s
 
 The simulation is part of a new training program set to launch at six hospitals across the city in December, but precisely how it addresses issues surrounding race and ethnicity is unclear.
 
-![Photo credit: https://www.nychealthandhospitals.org/harlem/pressrelease/new-simulation-training-improves-safety-of-childbirth/?news](./1_bkOoerj7XDHYTf_cZhGoEQ.jpeg)
+<center>
+![Photo credit: https://www.nychealthandhospitals.org/harlem/pressrelease/new-simulation-training-improves-safety-of-childbirth/?news](/posts/post_pics/1_bkOoerj7XDHYTf_cZhGoEQ.jpeg)
 
 _Photo credit: https://www.nychealthandhospitals.org/harlem/pressrelease/new-simulation-training-improves-safety-of-childbirth/?news_
+
+</center>
 
 When asked for specifics about how implicit bias is addressed in the training, Bob De Luna, press secretary for NYC Health + Hospitals/Harlem, where the training exercise was developed, replied: “Because our mission is to provide care to all regardless of ability to pay or immigration status, addressing bias associated with cultural difference has long been and will continue to be a focus for us.” De Luna did not respond to follow-up questions.
 

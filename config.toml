@@ -1,11 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "http://jenniferdoherty.net/"
 languageCode = "en-us"
 title = "Jennifer Doherty | Journalist"
 theme = "mero"
 
 [params]
   author = "Jennifer Doherty"
-  description = "My awesome blog"
+  description = "Jennifer Doherty is an NYC based Journalist reporting on Social Justice and Global Poverty."
 
 [menu]
   [[menu.main]]
@@ -34,10 +34,12 @@ theme = "mero"
     name = "Tags"
     title = "tags"
     url = "/tags/"
-    weight = 400 
+    weight = 400
+
+   
 
 [params.introduction]
-   text = "Jennifer Doherty is an NYC based Journalist."
+   text = "Jennifer Doherty is a Journalist reporting on Social Justice and Global Poverty. Hailing from New Orleans, she obtained a triple major in English, French and International Development. She spent several years living in Paris where she worked for the Organization of Economic & Cooperative Development (OECD) and the Nuclear Energy Agency (NEA) - a division of the OECD. In May 2019, she will graduate with a Masters Degrees in Journalism from Columbia University. She lives in NYC with her husband and dog."
 
 [params.social]
   [[params.social.list]]
@@ -57,7 +59,7 @@ theme = "mero"
 
   [[params.social.list]]
   class = "fab"
-  icon = "fa-envelope"
+  icon = "fa-beer"
   url = "mailto:jennifer.doherty@columbia.edu"  
 
 [params.footer]

@@ -1,12 +1,13 @@
 +++
 title = "When Congo Comes To Harlem"
 date = "2018-10-15"
-tags = ["congo","harlem"]
+tags = ["Congo","Drc","Harlem","New York City","Immigration"]
 categories = ["Article"]
 description = "An annual film series brings together one of New York City’s smallest immigrant communities for a showcase of pride and potential"
 +++
+
 <center>
-![](/posts/post_pics/ch-productivity-triangle.png)
+![](/posts/post_pics/city-3838884_1280.jpg)
 </center>
 
 _An annual film series brings together one of New York City’s smallest immigrant communities for a showcase of pride and potential_
