@@ -1,14 +1,20 @@
-# jenniferdoherty.net
+# mero Theme
 
-## About
-Website and portfolio for [my wife](www.jenniferdoherty.net).
+The mero Theme is for personal blogs.
 
-Built with gatsby.js and hosted with Netlify. [Template](https://github.com/greglobinski/gatsby-starter-hero-blog) by Greg Lobinski [@greglobinski](https://github.com/greglobinski)
+## Installation
 
-## Licence
+Inside the folder of your Hugo site run:
 
-MIT License
+    $ cd themes
+    $ git clone https://github.com/darshanbaral/mero.git
 
-## Status
+For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d7ea0f8f-5751-405b-b0c0-f4a574855647/deploy-status)](https://app.netlify.com/sites/objective-jang-e148d8/deploys)
+## Getting started
+
+After installing the mero Theme successfully, modify the `config.toml`.
+
+### The config file
+
+You'll find a file called [`config.toml`](https://github.com/darshanbaral/mero/blob/master/exampleSite/config.toml). Copy the `config.toml`to the root folder of your Hugo site and customize it per your need.
