@@ -27,8 +27,8 @@ url = "/categories/"
 
 [params.social]
   [[params.social.list]]
-  class = "fab"
-  icon = "fa-envelope-o"
+  class = "far"
+  icon = "fa-envelope"
   url = "mailto:jennifer.doherty@columbia.edu" 
 
   [[params.social.list]]
