@@ -1,8 +1,7 @@
 baseURL = "http://jenniferdoherty.net/"
 languageCode = "en-us"
 title = "Jennifer Doherty | Journalist"
-theme = "mero"
-url = "/categories/"
+
 [params]
   author = "Jennifer Doherty"
   description = "Jennifer Doherty is an NYC based Journalist reporting on Social Justice and Global Poverty."
