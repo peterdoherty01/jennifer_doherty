@@ -2,7 +2,7 @@
 title = "An NYPD Detective Dies by “Friendly Fire” in Queens"
 date = "2019-03-18"
 tags = ["Cops & Courts", "Gun Violence", "News", "Queens"]
-categories = ["Article","NYCity Lens"]
+categories = ["Articles","NYCity Lens"]
 description = "Richmond Hill, a quiet neighborhood, is shaken by tragedy"
 +++
 <center>

@@ -2,7 +2,7 @@
 title = "What Happened to Trey?"
 date = "2019-03-18"
 tags = ["Cardi B", "criminal justice", "DOCCS", "Greene Correctional Facility"]
-categories = ["Article","NYCity Lens"]
+categories = ["Articles","NYCity Lens"]
 description = "Anthony Myrie was the second inmate to die at Greene Correctional Facility in three months"
 +++
 <center>

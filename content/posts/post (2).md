@@ -2,7 +2,7 @@
 title = "Mother of Exiles"
 date = "2018-10-18"
 tags = ["Health","Maternal Health","Immigration","Race","New York City"]
-categories = ["Article"]
+categories = ["Articles"]
 description = "A new training from NYC Health + Hospitals/Harlem aims to improve outcomes for pregnant women of color, but does it address concerns for the most at-risk?"
 +++
 

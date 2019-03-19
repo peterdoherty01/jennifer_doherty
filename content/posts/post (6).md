@@ -2,7 +2,7 @@
 title = "After El Chapo"
 date = "2019-03-18"
 tags = ["Brooklyn", "Cold", "crime", "Drugs", "Justice", "Local business", "New York City", "snow"]
-categories = ["Article","NYCity Lens"]
+categories = ["Articles","NYCity Lens"]
 description = "That’s a wrap at the federal courthouse in Brooklyn"
 +++
 <center>

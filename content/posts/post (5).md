@@ -2,7 +2,7 @@
 title = "Poetry Without Borders"
 date = "2019-03-18"
 tags = ["author", "books", "Brooklyn", "Donald Trump", "immigration", "Palestine", "poetry"]
-categories = ["Article","NYCity Lens"]
+categories = ["Articles","NYCity Lens"]
 description = "Author Hala Alyan talks writing and resilience in the Trump era"
 +++
 <center>
