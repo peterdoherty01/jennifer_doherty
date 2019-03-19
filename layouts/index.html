@@ -1,7 +1,6 @@
-<head> 
-    {{ range .Site.Params.navlinks }}
-    {{ if .home }}
-    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
-    {{ end }}
-    {{ end }}
-  </head>
+{{ define "main" }}
+<main>
+    {{ partial "intro.html" . }}
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

@@ -1,3 +1,16 @@
 {{ define "main" }}
-  {{ partial "portfolio.html" . }}
+<main>
+    <h1>{{ .Title }}</h1>
+    <table class="table table-striped">
+        {{ range .Pages }}
+        <tr>
+            <td>{{ .Date.Format "2006-Jan-02" }}</td>
+            <td>
+                <a href="{{.Permalink}}">{{.Title}}</a>: {{ .Description }}
+            </td>
+        </tr>
+        {{ end }}
+    </table>
+</main>
+{{ partial "footer.html" . }}
 {{ end }}

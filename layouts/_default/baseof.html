@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
-<body>
-  <div id="all">
-      <div class="container-fluid">
-          <div class="row row-offcanvas row-offcanvas-left">
-              {{ partial "sidebar.html" . }}
-              {{ block "main" . }}
-              {{ end }}
-          </div>
-      </div>
-  </div>
-  {{ partial "scripts.html" . }}
+{{ partial "head.html" . }}
+
+<body class="container bg-dark text-white">
+    {{ partial "navbar.html" . }}
+    {{ block "main" . }}
+    {{ end }}
 </body>
+
 </html>
