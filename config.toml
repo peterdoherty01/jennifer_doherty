@@ -1,7 +1,6 @@
 baseURL = "http://jenniferdoherty.net/"
 languageCode = "en-us"
 title = "Jennifer Doherty | Journalist"
-theme = "mero"
 
 [params]
   author = "Jennifer Doherty"
@@ -10,38 +9,27 @@ theme = "mero"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "About"
     title = "home"
     url = "/"
     weight = 100
 
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Portfolio"
     title = "posts"
     url = "/posts/"
     weight = 200
-
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    title = "categories"
-    url = "/categories/"
-    weight = 300    
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    title = "tags"
-    url = "/tags/"
-    weight = 400
-
-   
-
+  
 [params.introduction]
    text = "Jennifer Doherty is a Journalist reporting on Social Justice and Global Poverty. Hailing from New Orleans, she obtained a triple major in English, French and International Development. She spent several years living in Paris where she worked for the Organization of Economic & Cooperative Development (OECD) and the Nuclear Energy Agency (NEA) - a division of the OECD. In May 2019, she will graduate with a Masters Degrees in Journalism from Columbia University. She lives in NYC with her husband and dog."
 
 [params.social]
+  [[params.social.list]]
+  class = "far"
+  icon = "fa-envelope"
+  url = "mailto:jennifer.doherty@columbia.edu" 
+
   [[params.social.list]]
   class = "fab"
   icon = "fa-linkedin-in"
@@ -55,12 +43,7 @@ theme = "mero"
   [[params.social.list]]
   class = "fab"
   icon = "fa-instagram"
-  url = "www.linkedin.com/in/jenniekdoh"
-
-  [[params.social.list]]
-  class = "fab"
-  icon = "fa-beer"
-  url = "mailto:jennifer.doherty@columbia.edu"  
+  url = "www.linkedin.com/in/jenniekdoh"  
 
 [params.footer]
   message = "&copy; 2019 Jennifer Doherty. All rights reserved."

@@ -1,5 +1,6 @@
 {{ define "main" }}
 <main>
+  <p>Here you will find a collection of articles and videos I've produced. Alternatively you can search by <a href="/categories/">categories</a> or by <a href="/tags/">tags</a>. </p>
   <div class="row row-eq-height">
     {{ $sectionName := .Title | lower }}
     {{ range $key, $taxonomy := .Site.Taxonomies.categories.ByCount }}
