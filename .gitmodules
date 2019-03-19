@@ -1,0 +1,3 @@
+[submodule "themes/mero"]
+	path = themes/mero
+	url = https://github.com/darshanbaral/mero.git
