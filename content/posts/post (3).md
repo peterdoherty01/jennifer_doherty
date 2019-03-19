@@ -1,9 +1,13 @@
 +++
-title = "Title of the post 3"
-date = "2018-12-12"
-tags = ["random"]
-categories = ["Category 1"]
-description = "A brief summary for the post 3"
+title = "Capoeira at the Atlantic Terminal Community Center"
+date = "2019-01-05"
+tags = ["Culture","Arts","Capoeira","Brazil","New York City"]
+categories = ["Video"]
+description = "Uncovering Capoeira in Brooklyn"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In the heart of Brooklyn, the Atlantic Terminal Community Center offers a wealth of free programs, available to all. One of the classes they offer is capoeira, an Afro-Brazilian martial art that combines dance, acrobatics and song to empower the body and the spirit.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-y8GjycVJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
