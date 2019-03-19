@@ -1,26 +1,20 @@
-name = "Coder"
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "Creative portfolio"
 license = "MIT"
-licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
-description = "A simple and clean blog theme for Hugo"
-homepage = "https://github.com/luizdepra/hugo-coder/"
-tags = [
-  "blog",
-  "minimal",
-  "minimalist",
-  "responsive",
-  "simple",
-  "clean",
-  "personal"
-]
-features = [
-  "analytics",
-  "favicon",
-  "pagination",
-  "single-column",
-  "syntax-highlighting"
-]
-min_version = "0.43"
+licenselink = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/LICENSE"
+description = "Port of the creative portfolio theme"
+homepage = "https://github.com/kishaningithub/hugo-creative-portfolio-theme"
+tags = ["creative", "portfolio", "projects", "minimal", "responsive"]
+features = ["disqus", "bootstrap", "responsive", "google analytics"]
+min_version = 0.20
 
 [author]
-  name = "Luiz F. A. de Prá"
-  homepage = "https://luizdepra.com"
+  name = "Kishan B"
+  homepage = "https://github.com/kishaningithub"
+
+# If porting an existing theme
+[original]
+  name = "bootstrapious"
+  homepage = "https://bootstrapious.com/p/creative-portfolio"
